@@ -25,3 +25,6 @@ Demo演示了把 https://api.wecode.net.cn 请求转发到 https://www.fifaoffic
     -d \
     nginx
   ```
+
+## Reference
+https://fyh.me/2018/07/12/nginx-docker-miniprogram/
